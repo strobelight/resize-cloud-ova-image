@@ -1,0 +1,1 @@
+# resize-cloud-ova-image
